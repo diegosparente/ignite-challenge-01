@@ -33,7 +33,7 @@ yarn
 
 ## Uso
 
-Para executar em ambiente de desenvolvimento, para rodar o comando:
+Para executar em ambiente de desenvolvimento:
 
 ```bash
 yarn dev
